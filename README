@@ -1,0 +1,1 @@
+This is an AntiGrief project for Bukkit (MineCraft). The goal is to allow guests to login and have full build/destroy access, but intelligently detect griefing behavior and auto-ban griefers before they can do much damage. Optionally I'd like it to hook into LogBlock/BigBrother to automatically roll back any damage they DID manage to do before crossing the "griefer" threshold.
